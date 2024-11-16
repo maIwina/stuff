@@ -1,3 +1,8 @@
+/**
+* @name AlignedChatBox
+* @author CodeF53
+* @description Aligns chat box with the bottom of the screen and user controls
+*/
 /* link to original file: https://github.com/CodeF53/CSS-Snippets/blob/main/discord/AlignedChatBox.css */
 :is(main,section)[class^=chatContent] > form,
 form > div[class^=submitContainer] {
